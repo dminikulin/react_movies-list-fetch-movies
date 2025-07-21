@@ -3,7 +3,7 @@ import './App.scss';
 import { MoviesList } from './components/MoviesList';
 import { FindMovie } from './components/FindMovie';
 import { Movie } from './types/Movie';
-import { ResponseError } from './types/ReponseError';
+import { ResponseError } from './types/ResponseError';
 import { MovieData } from './types/MovieData';
 import { getMovie } from './api';
 

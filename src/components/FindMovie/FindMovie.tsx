@@ -1,6 +1,6 @@
 import React from 'react';
 import './FindMovie.scss';
-import { ResponseError } from '../../types/ReponseError';
+import { ResponseError } from '../../types/ResponseError';
 import { Movie } from '../../types/Movie';
 import { MovieCard } from '../MovieCard';
 
